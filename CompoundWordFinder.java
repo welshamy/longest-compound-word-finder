@@ -9,7 +9,7 @@ import java.util.TreeMap;
  * This class is used to find the longest compound word in 
  * a list of words given through the standard input.
  * 
- * @author Wesam Elshamy <wesamelshamy at gmail>
+ * @author Wesam Elshamy
  *
  */
 public class CompoundWordFinder {
